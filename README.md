@@ -9,3 +9,5 @@ The Rar One Is Smaller.
 I Will Also Add It To Nuget Repository's.
 
 Edit: I Forgot To Rename It To DarkTabs :)
+
+# Warning: This is no longer maintained.
