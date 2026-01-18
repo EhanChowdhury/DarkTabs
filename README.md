@@ -1,4 +1,6 @@
 # DarkTabs
+# Warning: This is no longer maintained.
+
 A Fork Of Easytabs But DarkMode!
 Works Just like normal but Default is DarkMode.
 Not All Folders Have Been Uploaded Because I Don't Want To Waste Time Because Github Doesn't Allow You To
